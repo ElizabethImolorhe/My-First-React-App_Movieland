@@ -44,12 +44,14 @@ This App was created while watching a YouTube video by JavaScript Mastery
 
 ### What I learned
 
-This is my very first attempt on React.JS. It was quite a huge chanllenge and also a big step for me into the world of web development. I enjoyed every bit of the journey using YouTube video by JavaScript Mastery . I still have a whole lot to learn but I believe this starting point is a milestone for me. I learnt a lot, some of my take aways are:
--Installation of node.js 
--React.JS environment setup 
--using the npx command to install React packages
--using the npm command to start the App on a ocal host.
--React.Js hooks, useState and useEffect
+This is my very first attempt on React.JS. It was quite a huge challenge and also a big step for me into the world of web development. I enjoyed every bit of the journey using YouTube video by JavaScript Mastery . I still have a whole lot to learn but I believe this starting point is a milestone for me. 
+
+Some of my take aways are:
+- Installation of node.js 
+- React.JS environment setup 
+- using the npx command to install React packages
+- using the npm command to start the App on a ocal host.
+- React.Js hooks, useState and useEffect
 
 To see how you can add code snippets, see below:
 
@@ -83,10 +85,9 @@ h1 {
       </div>
 ```
 
-
 ### Continued development
 
-As this is my very first interaction with React.JS, I still have a lot to learn. Many of the components, Hooks and Functions used in this project are still daunting for me. But I strongly believe that with moe practice I will get a good grasp of React.JS.
+As this is my very first interaction with React.JS, I still have a lot to learn. Many of the components, Hooks and Functions used in this project are still daunting for me. But I strongly believe that with more practice I will get a good grasp of React.JS.
 
 ### Useful resources
 
