@@ -27,7 +27,7 @@ This App was created while watching a YouTube video by JavaScript Mastery
 ### Links
 
 - https://www.youtube.com/watch?v=b9eMGE7QtTk
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- https://github.com/ElizabethImolorhe/My-First-React-App_Movieland
 
 ## My process
 
@@ -95,7 +95,7 @@ As this is my very first interaction with React.JS, I still have a lot to learn.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - https://github.com/ElizabethImolorhe/My-First-React-App_Movieland
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
 - Twitter - [@yourusername](https://www.twitter.com/yourusername)
 
