@@ -53,8 +53,6 @@ Some of my take aways are:
 - using the npm command to start the App on a ocal host.
 - React.Js hooks, useState and useEffect
 
-To see how you can add code snippets, see below:
-
 ```JS
 import React, { useState, useEffect } from "react";
 
